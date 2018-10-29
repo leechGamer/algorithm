@@ -2,6 +2,9 @@
 
 | 문제                                       | 답                                        |
 | :--------------------------------------- | ---------------------------------------- |
+
+| [2018-10-29 (월) 주어진 문자열을 int 형으로 변환한다]() |         
+
 | [2018-04-17(화) Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) |                                          |
 | [2018-03-02(금) Equalize the Array]( https://www.hackerrank.com/challenges/equality-in-a-array/problem) |                                          |
 | [2018-02-28(수) Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) |                                          |
