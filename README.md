@@ -3,9 +3,14 @@
 
 | 문제                                                         | 답                                                           |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| 2018-10-29 (월)  **주어진 문자열을 int 형으로 변환한다.**    | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/StringToInt.java) |
-| 2018-10-29 (월)  **주어진 문자열을 역순으로 출력한다.**      | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/ReverseString.java) |
-| 2018-10-29 (월)   **주어진 문자열에서 문자열을 구성하고 있는 각각의 문자열들이 고유한지를 판단한다.** | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/CharacteristicValue.java) |
+| 2018-10-31(수)  **주어진 두 수의 최대 공약수와 최소 공배수를 구한다** |                                                              |
+| 2018-10-31(수)  **주어진 두 수의 최대 공약수와 최소 공배수를 구한다** |                                                              |
+| 2018-10-31(수)  **주어진 두 수의 최대 공약수와 최소 공배수를 구한다** |                                                              |
+| 2018-10-31(수)  **주어진 두 수의 최대 공약수와 최소 공배수를 구한다** |                                                              |
+| 2018-10-31(수)  **주어진 두 수의 최대 공약수와 최소 공배수를 구한다** |                                                              |
+| 2018-10-29(월)  **주어진 문자열을 int 형으로 변환한다.**     | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/StringToInt.java) |
+| 2018-10-29(월)  **주어진 문자열을 역순으로 출력한다.**       | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/ReverseString.java) |
+| 2018-10-29(월)   **주어진 문자열에서 문자열을 구성하고 있는 각각의 문자열들이 고유한지를 판단한다.** | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/CharacteristicValue.java) |
 | [2018-04-17(화) Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) |                                                              |
 | [2018-03-02(금) Equalize the Array]( https://www.hackerrank.com/challenges/equality-in-a-array/problem) |                                                              |
 | [2018-02-28(수) Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) |                                                              |
