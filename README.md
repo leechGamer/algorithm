@@ -30,7 +30,7 @@
 | [2018-01-22(월)Pairs](https://www.hackerrank.com/challenges/pairs/problem) |                                                              |
 | [2018-01-19(금)Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/MigotoryBirds.java) |
 | [2018-01-18(목) Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/Kangaroo.java) |
-| [2018-01-17(수)Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [완료](<https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/Angry>Professor.java) |
+| [2018-01-17(수)Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/Angry>Professor.java) |
 | [2018-01-16(화)Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/BirthdayCakeCandle.java) |
 | [2018-01-15(월)Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/AppleAndOrange.java) |
 | [2018-01-12(금)maximum-draws](https://www.hackerrank.com/challenges/maximum-draws/problem) |                                                              |
