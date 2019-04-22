@@ -1,4 +1,4 @@
-# Daily-algorithm
+# algorithm
 
 
 | 문제                                                         | 답                                                           |
