@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Scanner;
 
-class FirstSolution {
+class Solution {
     public static int numberOfSteps (int num) {
         int steps = 0;        
         while (num > 0) {
