@@ -1,10 +1,10 @@
-package leetcode;
+package leetcode1;
 
 import java.util.Scanner;
 /*
  * [LeetCode] Number of Steps to Reduce a Number to Zero    	
  */
-class Solution {
+class FirstSolution {
     public static int numberOfSteps (int num) {
         int steps = 0;        
         while (num > 0) {
