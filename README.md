@@ -7,7 +7,8 @@
 
 
 ---
-### 2018
+<details markdown="1">
+<summary> 2018 </summary>
 
 | 문제                                                         | 답                                                           |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -59,3 +60,5 @@
 | [2018-01-04(목)The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) |                                                              |
 | [2018-01-03(수)Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/UtopianTree.java) |
 | [2018-01-02(화)Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem) | [완료](https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/Maximizing-Xor.java) |
+
+</details>
