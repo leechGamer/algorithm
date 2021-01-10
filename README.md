@@ -4,7 +4,7 @@
 
 | 문제                                                         | 답                                                           |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-|  [bj9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)| [Done](https://github.com/gyoungeunbae/algorithm/tree/master/Answer/bj/9093)|
+|  [bj9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)| [Done](https://github.com/gyoungeunbae/algorithm/tree/master/Answer/bj/9093/Main.java)|
 
 ---
 <details markdown="1">
