@@ -7,6 +7,8 @@
 |  [bj9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)| [Done](https://github.com/gyoungeunbae/algorithm/tree/master/Answer/bj/9093/Main.java)|
 |  [bj9012 괄호](https://www.acmicpc.net/problem/9012)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/9012/Main.java)|
 |  [bj1874 스택 수열](https://www.acmicpc.net/problem/1874) | [Done]()|
+|  [bj1406 에디터](https://www.acmicpc.net/problem/1406) | [Done]()|
+
 
 ---
 <details markdown="1">
