@@ -10,7 +10,8 @@
 |4|  [1406 에디터](https://www.acmicpc.net/problem/1406) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1406/Main.java)|
 |5|  [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17413/Main.java)|
 |6|  [10799 쇠막대기](https://www.acmicpc.net/problem/10799) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10799/Main.java)|
-
+|7|  [17298 오큰수](https://www.acmicpc.net/problem/17298) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17298/Main.java)|
+|8|  [10430 나머지](https://www.acmicpc.net/problem/10430) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10430/Main.java)|
 
 ---
 <details markdown="1">
