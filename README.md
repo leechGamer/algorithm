@@ -12,6 +12,7 @@
 |6|  [10799 쇠막대기](https://www.acmicpc.net/problem/10799) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10799/Main.java)|
 |7|  [17298 오큰수](https://www.acmicpc.net/problem/17298) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17298/Main.java)|
 |8|  [10430 나머지](https://www.acmicpc.net/problem/10430) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10430/Main.java)|
+|9|  [2609 최대공약수 최소공배수](https://www.acmicpc.net/problem/2609) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/2609/Main.java)|
 
 ---
 <details markdown="1">
