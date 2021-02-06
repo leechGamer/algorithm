@@ -13,6 +13,8 @@
 |7|  [17298 오큰수](https://www.acmicpc.net/problem/17298) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17298/Main.java)|
 |8|  [10430 나머지](https://www.acmicpc.net/problem/10430) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10430/Main.java)|
 |9|  [2609 최대공약수 최소공배수](https://www.acmicpc.net/problem/2609) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/2609/Main.java)|
+|10| [1978 소수찾기](https://www.acmicpc.net/problem/1978) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1978/Main.java)|
+|11| [1929 소수구하기](https://www.acmicpc.net/problem/1929) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1929/Main.java)|
 
 ---
 <details markdown="1">
