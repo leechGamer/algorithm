@@ -16,6 +16,7 @@
 |10| [1978 소수찾기](https://www.acmicpc.net/problem/1978) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1978/Main.java)|
 |11| [1929 소수구하기](https://www.acmicpc.net/problem/1929) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1929/Main.java)|
 |12| [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/6588/Main.java)|
+|13| [10872 팩토리얼](https://www.acmicpc.net/problem/10872) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10872/Main.java)|
 
 ---
 <details markdown="1">
