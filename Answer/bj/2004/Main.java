@@ -1,24 +1,39 @@
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Main {
-    public static int countZero(int num) {
-        int count = 0;
-        for (int i=1;i<=num;i++) {
-            count +=  num / (int) Math.pow(5, i);
+    public static long[] countZero(long num) {
+        long twoCount = 0;
+        long fiveCount = 0;
+        long result[] = new long[2];
+        if(num > 0) {
+            for (long i = 5; i <= num; i *= 5) {
+                fiveCount += num / i;
+            }
+
+            for (long j = 2; j <= num; j *= 2) {
+                twoCount += num / j;
+            }
+            result[0] = twoCount;
+            result[1] = fiveCount;
         }
-        return count;
+        return result;
     }
-    public static void main(String[] args) throws IOException{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String input = br.readLine();
-        String[] inputArr = input.split(" ");
-        int n1 = Integer.parseInt(inputArr[0]);
-        int n2 = Integer.parseInt(inputArr[1]);
-        int n3 = n1 - n2;
+
+    public static void main(String[] args) throws IOException {
+        Scanner sc = new Scanner(System.in);
+        long n1 = sc.nextLong();
+        long n2 = sc.nextLong();
+        long two = 0, five = 0;
+        long n3 = n1 - n2;
+
+        long[] n1Arr = countZero(n1);
+        long[] n2Arr = countZero(n2);
+        long[] n3Arr = countZero(n3);
         
-        int result = countZero(n1) - countZero(n2) - countZero(n3);
-        System.out.println(result);
+        two = n1Arr[0] - n2Arr[0] - n3Arr[0];
+        five = n1Arr[1] - n2Arr[1] - n3Arr[1];
+    
+        System.out.println(Math.min(two, five));
     }
 }
