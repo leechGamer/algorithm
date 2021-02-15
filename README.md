@@ -19,6 +19,7 @@
 |13| [10872 팩토리얼](https://www.acmicpc.net/problem/10872) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/10872/Main.java)|
 |14| [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1676/Main.java)|
 |15| [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/2004/Main.java)|
+|16| [9613 GCD 합](https://www.acmicpc.net/problem/9613) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/9613/Main.java)|
 
 ---
 <details markdown="1">
