@@ -21,6 +21,7 @@
 |15| [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/2004/Main.java)|
 |16| [9613 GCD 합](https://www.acmicpc.net/problem/9613) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/9613/Main.java)|
 |17| [17087 숨바꼭질6](https://www.acmicpc.net/problem/17087) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17087/Main.java)|
+|18| [1373 2진수 8진수](https://www.acmicpc.net/problem/1373) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1373/Main.java)|
 
 ---
 <details markdown="1">
