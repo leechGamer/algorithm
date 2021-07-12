@@ -23,6 +23,7 @@
 |17| [17087 숨바꼭질6](https://www.acmicpc.net/problem/17087) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17087/Main.java)|
 |18| [1373 2진수 8진수](https://www.acmicpc.net/problem/1373) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1373/Main.java)|
 |19| 2진수를 문자열로 변환하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main12.java)
+|20| [Shortest distance to every other character from given character](https://www.geeksforgeeks.org/shortest-distance-to-every-other-character-from-given-character/) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main13.java)
 
 ---
 <details markdown="1">
