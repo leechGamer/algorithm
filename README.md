@@ -22,6 +22,7 @@
 |16| [9613 GCD 합](https://www.acmicpc.net/problem/9613) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/9613/Main.java)|
 |17| [17087 숨바꼭질6](https://www.acmicpc.net/problem/17087) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/17087/Main.java)|
 |18| [1373 2진수 8진수](https://www.acmicpc.net/problem/1373) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/bj/1373/Main.java)|
+|19| 2진수를 문자열로 변환하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main12.java)
 
 ---
 <details markdown="1">
