@@ -25,6 +25,9 @@
 |19| 2진수를 문자열로 변환하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main12.java)
 |20| [Shortest distance to every other character from given character](https://www.geeksforgeeks.org/shortest-distance-to-every-other-character-from-given-character/) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main13.java)
 |21| [Extract all integers from string](https://www.geeksforgeeks.org/extract-integers-string-c/) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main9.java)
+|22| [중복 문자열 제거] | [Done] ((https://github.com/gyoungeunbae/algorithm/blob/master/Answer/RemoveDuplicate.java)
+|23| [회문 문자열] | [Done] ((https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Palindrome.java)
+
 ---
 <details markdown="1">
 <summary> 2018 </summary>
