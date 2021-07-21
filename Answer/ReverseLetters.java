@@ -16,13 +16,9 @@ public class ReverseLetters {
         for (int i=0;i<input.length()/2;i++) {
             if (!Character.isLetter(input.charAt(lt))) {
                 lt++;
-            }
-
-            if (!Character.isLetter(input.charAt(rt))) {
+            } else if (!Character.isLetter(input.charAt(rt))) {
                 rt--;
-            }
-
-            if (Character.isLetter(input.charAt(lt)) && Character.isLetter(input.charAt(rt))) {
+            } else (Character.isLetter(input.charAt(lt)) && Character.isLetter(input.charAt(rt))) {
                 char tmp = input.charAt(lt);
                 result.setCharAt(lt, input.charAt(rt));
                 result.setCharAt(rt, tmp);
