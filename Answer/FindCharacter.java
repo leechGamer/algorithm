@@ -1,8 +1,7 @@
-package com.company;
 
 import java.util.Scanner;
 
-public class Main {
+public class FindCharacter {
     /*
     Computercooler
     c
