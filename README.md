@@ -29,7 +29,7 @@
 |23| 회문 문자열 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Palindrome.java)
 |24| 특정문자열 뒤집기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/ReverseLetters.java)
 |25| 문자 찾기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/FindCharacter.java)
-|26| 문장 속 단어 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/FindCharacter.java)
+|26| 문장 속 단어 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/WordInSentence.java)
 |27| 대소문자 변환 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/UpperCaseLowerCase.java)
 
 ---
