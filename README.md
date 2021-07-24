@@ -31,6 +31,7 @@
 |25| 문자 찾기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/FindCharacter.java)
 |26| 문장 속 단어 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/WordInSentence.java)
 |27| 대소문자 변환 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/UpperCaseLowerCase.java)
+|28| 큰 수 출력하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/BetterThanBefore.java)
 
 ---
 <details markdown="1">
