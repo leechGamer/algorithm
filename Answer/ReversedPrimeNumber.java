@@ -21,24 +21,15 @@ public class ReversedPrimeNumber {
         return Integer.parseInt(reversed);
     }
 
-    public static boolean isPrimeNumber(int number) {
-        int[] arr = new int[number+1];
-        arr[0] = 1;
-        arr[1] = 1;
+public static boolean isPrimeNumber(int number) {
+        if (number == 1) {
+            return false;
+        }
         for (int i=2;i<number+1;i++) {
-            if (arr[i] == 1) {
-                continue;
-            } else {
-                int a = 2;
-                while (i * a < number + 1) {
-                    arr[i * a] = 1;
-                    a++;
-                }
+            if (number%2 == 0) {
+                return false;
             }
         }
-        if (arr[number] != 1) {
-            return true;
-        }
-        return false;
+        return true;
     }
 }
