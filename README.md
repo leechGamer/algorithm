@@ -33,6 +33,7 @@
 |27| 대소문자 변환 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/UpperCaseLowerCase.java)
 |28| 큰 수 출력하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/BetterThanBefore.java)
 |29| 보이는 학생 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Student.java)
+|30| 가위바위보 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/RockScissor.java)
 
 ---
 <details markdown="1">
