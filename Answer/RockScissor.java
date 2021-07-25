@@ -1,8 +1,5 @@
-
 import java.util.Scanner;
 
-/*
- */
 public class RockScissor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -26,26 +23,10 @@ public class RockScissor {
         if (A.equals(B)) {
             return "D";
         } else {
-            if (A.equals("1")) {
-                if (B.equals("2")) {
-                    return "B";
-                } else if (B.equals("3")) {
-                    return "A";
-                }
-            } else if (A.equals("2")) {
-                if (B.equals("1")) {
-                 return "A";
-                } else if (B.equals("3")) {
-                    return "B";
-                }
-            } else if (A.equals("3")) {
-                if (B.equals("1")) {
-                    return "B";
-                } else if (B.equals("2")) {
-                    return "A";
-                }
-            }
+            if (A.equals("1") && B.equals("3")) return "A";
+            else if (A.equals("2") && B.equals("1")) return "A";
+            else if (A.equals("3") && B.equals("2")) return "A";
         }
-        return "";
+        return "B";
     }
 }
