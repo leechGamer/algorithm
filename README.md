@@ -34,8 +34,8 @@
 |28| 큰 수 출력하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/BetterThanBefore.java)
 |29| 보이는 학생 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Student.java)
 |30| 가위바위보 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/RockScissor.java)
-|31| 소수 구하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/PrimeNumber.java)
-
+|31| 뒤집은 소수 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/ReversedPrimeNumber.java)
+  
 ---
 <details markdown="1">
 <summary> 2018 </summary>
