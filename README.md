@@ -35,6 +35,7 @@
 |29| 보이는 학생 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Student.java)
 |30| 가위바위보 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/RockScissor.java)
 |31| 뒤집은 소수 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/ReversedPrimeNumber.java)
+|32| 점수 계산 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Score.java)
   
 ---
 <details markdown="1">
