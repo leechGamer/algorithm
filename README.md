@@ -38,6 +38,7 @@
 |32| 점수 계산 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Score.java)
 |33| 등수 계산 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/RankCalculator.java)
 |34| 격자 최대합 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MaxNumber.java)
+|35| 봉우리 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Peaks.java)
 
   
 ---
