@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class InterSectionV1 {
+public class InterSection {
     /**
      공통원소 구하기
      5
