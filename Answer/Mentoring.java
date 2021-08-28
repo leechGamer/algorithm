@@ -26,12 +26,10 @@ public class Mentoring {
                             y = s;
                         }
                     }
-                    System.out.println(x+","+y+")  " +"("+(i+1)+", "+(j+1)+")");
                     if (x < y) {
                         count++;
                     }
                 }
-                System.out.println(count);
                 if (count == m) {
                     answer++;
                 }
