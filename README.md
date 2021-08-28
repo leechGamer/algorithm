@@ -42,6 +42,7 @@
 |36| 임시 반장 정하기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/ChairMan.java)
 |37| 멘토링 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Mentoring.java)
 |38| 두 배열 합치기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MergeArrays.java)
+|39| 최대 매출 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MaxSales.java)
 
   
 ---
