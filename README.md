@@ -43,6 +43,7 @@
 |37| 멘토링 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Mentoring.java)
 |38| 두 배열 합치기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MergeArrays.java)
 |39| 최대 매출 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MaxSales.java)
+|40| 학급 회장 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/PeerLeader.java)
 
   
 ---
