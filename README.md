@@ -45,8 +45,14 @@
 |39| 최대 매출 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MaxSales.java)
 |40| 학급 회장 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/PeerLeader.java)
 
-  
 ---
+### SQL 
+| | 문제                                                         | 답                                                           |
+|---| :----------------------------------------------------------- | ------------------------------------------------------------ |
+|1|  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)| [Done](https://github.com/gyoungeunbae/algorithm/sql/sql1.sql)|
+
+---
+
 <details markdown="1">
 <summary> 2018 </summary>
 
