@@ -49,7 +49,13 @@
 ### SQL 
 | | 문제                                                         | 답                                                           |
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ |
-|1|  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)| [Done](https://github.com/gyoungeunbae/algorithm/sql/sql1.sql)|
+|1|  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution1.sql)|
+|2|  [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution2.sql)|
+|3|  [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution3.sql)|
+|4|  [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution4.sql)|
+|5|  [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59038)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution5.sql)|
+|6|  [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59039)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution6.sql)|
+|7|  [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59040)| [Done](https://github.com/gyoungeunbae/algorithm/sql/solution7.sql)|
 
 ---
 
