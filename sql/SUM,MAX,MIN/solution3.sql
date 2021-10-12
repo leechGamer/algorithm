@@ -1,0 +1,2 @@
+SELECT count(ANIMAL_TYPE) as count
+FROM ANIMAL_INS;
