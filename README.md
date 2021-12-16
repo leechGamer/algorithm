@@ -44,7 +44,7 @@
 |38| 두 배열 합치기 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MergeArrays.java)
 |39| 최대 매출 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/MaxSales.java)
 |40| 학급 회장 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/PeerLeader.java)
-|41| x만큼 간격이 있는 n개의 숫자 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12954.java)
+|41| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12954.java)
 
 ---
 ### SQL 
