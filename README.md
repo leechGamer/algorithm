@@ -48,6 +48,7 @@
 |42| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12950.java)
 |43| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12948.java)
 |44| [하샤드](https://programmers.co.kr/learn/courses/30/lessons/12947) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12947.java)
+|45| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12944.java)
 ---
 ### SQL 
 | | 문제                                                         | 답                                                           |
