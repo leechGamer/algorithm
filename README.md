@@ -46,7 +46,7 @@
 |40| 학급 회장 | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/PeerLeader.java)
 |41| [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12954.java)
 |42| [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12950.java)
-
+|43| [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12948.java)
 ---
 ### SQL 
 | | 문제                                                         | 답                                                           |
