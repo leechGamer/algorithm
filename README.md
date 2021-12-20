@@ -50,6 +50,7 @@
 |44| [하샤드](https://programmers.co.kr/learn/courses/30/lessons/12947) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12947.java)
 |45| [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12944.java)
 |46| [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | [Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12943.java)
+|47| [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Solution12937.java)
 ---
 ### SQL 
 | | 문제                                                         | 답                                                           |
