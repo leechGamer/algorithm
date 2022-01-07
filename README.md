@@ -33,7 +33,7 @@
 |27| 두 배열 합치기 | | ||
 |28| 공통원소 구하기 | | ||
 |29| 최대 매출 | | ||
-|30| 정렬되지 않은 linkedlist가 있다. 중복값을 제거하라. (단, buffer 사용 불가) | | |2022.01.07|
+|30| 정렬되지 않은 linkedlist가 있다. 중복값을 제거하라. (단, buffer 사용 불가)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main20221.java) | 2022.01.07|
 </details>
 <details markdown="1">
 <summary> 2021 </summary>
