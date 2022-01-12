@@ -36,7 +36,7 @@
 |30| SingleLinkedList응용: 중복값 제거(buffer 사용 불가)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/RemoveDuplicatedEWithSingleLinkedList.java) | 2022.01.07|
 |31| SingleLinkedList응용: 뒤에서 k번째 원소 찾기|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElement.java) | 2022.01.12|
 |32| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(재귀 이용)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElementV2.java) | 2022.01.12|
-|33| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v3)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElementV3.java) | 2022.01.12|
+|33| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v3)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindElementV3.java) | 2022.01.12|
 |34| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v4)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindElementV4.java) | 2022.01.12|
 </details>
 <details markdown="1">
