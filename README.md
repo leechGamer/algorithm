@@ -34,6 +34,9 @@
 |28| 공통원소 구하기 | | ||
 |29| 최대 매출 | | ||
 |30| SingleLinkedList응용: 중복값 제거(buffer 사용 불가)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/RemoveDuplicatedEWithSingleLinkedList.java) | 2022.01.07|
+|31| SingleLinkedList응용: 뒤에서 k번째 원소 찾기|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElement.java) | 2022.01.12|
+|32| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(재귀 이용)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElementV2.java) | 2022.01.12|
+|33| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v3)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElementV3.java) | 2022.01.12|
 </details>
 <details markdown="1">
 <summary> 2021 </summary>
