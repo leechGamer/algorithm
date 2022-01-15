@@ -35,7 +35,9 @@ public class TwoBlocks {
             node = next;
         }
 
-        if (left != null) {
+       if (left == null) {
+            return right;
+        } else {
             leftLast.next = right;
         }
         return left;
