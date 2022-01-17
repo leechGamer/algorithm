@@ -39,6 +39,7 @@
 |33| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v3)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindElementV3.java) | 2022.01.12|
 |34| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(v4)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindElementV4.java) | 2022.01.12|
 |35| SingleLinkedList응용: x를 기준으로 두 파트로 나누기|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/LinkedList/TwoBlocks.java) | 2022.01.15|
+|36| 10828 Stack |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/Stack.java) | 2022.01.17|
 
 </details>
 <details markdown="1">
