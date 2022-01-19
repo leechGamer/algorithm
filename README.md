@@ -6,8 +6,8 @@
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |1| 문자 찾기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/Main20221.java) | 2021.12.29|
 |2| 대소문자 변환 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/Answer/2022/Main20222.java) | 2021.12.29|
-|3| 문장 속 단어 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%AC%B8%EC%9E%A5%EC%86%8D%EB%8B%A8%EC%96%B4/Main.java)| 2022.01.19
-|4| 단어 뒤집기 | | ||
+|3| 문장 속 단어 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%AC%B8%EC%9E%A5%EC%86%8D%EB%8B%A8%EC%96%B4/Main.java)| 2022.01.19|
+|4| 단어 뒤집기 |[Done](https://github.com/gyoungeunbae/algorithm/tree/master/2022/%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0)| 2022.01.19|
 |5| 특정 문자 뒤집기 | | ||
 |6| 중복문자제거 | | ||
 |7| 회문 문자열 | | ||
