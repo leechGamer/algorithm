@@ -9,7 +9,7 @@
 |3| 문장 속 단어 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%AC%B8%EC%9E%A5%EC%86%8D%EB%8B%A8%EC%96%B4/Main.java)| 2022.01.19|
 |4| 단어 뒤집기 |[Done](https://github.com/gyoungeunbae/algorithm/tree/master/2022/%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0)| 2022.01.19|
 |5| 특정 문자 뒤집기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%ED%8A%B9%EC%A0%95%EB%AC%B8%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/Main.java) | 2022.01.26|
-|6| 중복문자제거 | | ||
+|6| 중복문자제거 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0/Main.java) | 2022.01.27|
 |7| 회문 문자열 | | ||
 |8| 유효한 팰린드롬 | | ||
 |9| 숫자만 추출 | | ||
