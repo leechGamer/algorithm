@@ -11,9 +11,9 @@
 |5| 특정 문자 뒤집기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%ED%8A%B9%EC%A0%95%EB%AC%B8%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/Main.java) | 2022.01.26|
 |6| 중복문자제거 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0/Main.java) | 2022.01.27|
 |7| 회문 문자열 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4/Main.java)|2022.01.27|
-|8| 유효한 팰린드롬 | | ||
-|9| 숫자만 추출 | | ||
-|10| 가장 짧은 문자거리 | | ||
+|8| 유효한 팰린드롬 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9C%A0%ED%9A%A8%ED%95%9C%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/Main.java) |2022.01.28|
+|9| 숫자만 추출 |[Done](https://github.com/gyoungeunbae/algorithm/tree/master/2022/%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C)|2022.01.28|
+|10| 가장 짧은 문자거리 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B0%80%EC%9E%A5%EC%A7%A7%EC%9D%80%20%EA%B1%B0%EB%A6%AC/Main.java)| 2022.01.28|
 |11| 문자열 압축 | | ||
 |12| 암호 | | ||
 |13| 큰 수 출력하기 | | ||
