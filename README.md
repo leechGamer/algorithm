@@ -24,13 +24,13 @@
 |18| 뒤집은 소수 | | |
 |19| 점수계산 | | ||
 |20| 등수구하기 | | ||
-|21| 격자판 최대합 | | ||
-|22| 봉우리 | | ||
-|23| 임시반장 정하기 | | ||
+|21| 격자판 최대합 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B2%A9%EC%9E%90%ED%8C%90%EC%B5%9C%EB%8C%80%ED%95%A9/Main.java)|2022.01.31|
+|22| 봉우리 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%B4%89%EC%9A%B0%EB%A6%AC/Main.java)|2022.01.31|
+|23| 임시반장 정하기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%84%EC%8B%9C%EB%B0%98%EC%9E%A5%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)|2022.01.31|
 |24| 멘토링 | | ||
-|25| 두 배열 합치기 | | ||
-|26| 공통원소 구하기 | | ||
-|27| 최대 매출 | | ||
+|25| 두 배열 합치기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0/Main.java) |2022.01.30|
+|26| 공통원소 구하기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B3%B5%ED%86%B5%EC%9B%90%EC%86%8C%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java) |2022.01.30|
+|27| 최대 매출 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%B5%9C%EB%8C%80%EB%A7%A4%EC%B6%9C/Main.java) |2022.01.30|
 |28| SingleLinkedList응용: 중복값 제거(buffer 사용 불가)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/RemoveDuplicatedEWithSingleLinkedList.java) | 2022.01.07|
 |29| SingleLinkedList응용: 뒤에서 k번째 원소 찾기|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElement.java) | 2022.01.12|
 |30| SingleLinkedList응용: 뒤에서 k번째 원소 찾기(재귀 이용)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/appliedDS/FindKElementV2.java) | 2022.01.12|
