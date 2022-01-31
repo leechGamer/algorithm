@@ -8,7 +8,9 @@ public class Main {
         isPrime[1] = true;
         for (int i=2;i<isPrime.length;i++) {
             for (int j=2;i*j<isPrime.length;j++) {
-                isPrime[i*j] = true;
+                if (! isPrime[i*j]) {
+                    isPrime[i*j] = true;
+                }
             }
         }
 
