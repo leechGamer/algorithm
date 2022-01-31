@@ -20,10 +20,10 @@
 |14| 보이는 학생 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%B3%B4%EC%9D%B4%EB%8A%94%20%ED%95%99%EC%83%9D/Main.java)|2022.01.29|
 |15| 가위 바위 보 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4/Main.java)|2022.01.29|
 |16| 피보나치 수열 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4/Main.java)|2022.01.29|
-|17| 소수(에라토스테네스 체) | | ||
+|17| 소수(에라토스테네스 체) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%EC%B2%B4/Main.java) |2022.01.31|
 |18| 뒤집은 소수 | | |
 |19| 점수계산 | | ||
-|20| 등수구하기 | | ||
+|20| 등수구하기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%93%B1%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)|2022.01.31|
 |21| 격자판 최대합 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B2%A9%EC%9E%90%ED%8C%90%EC%B5%9C%EB%8C%80%ED%95%A9/Main.java)|2022.01.31|
 |22| 봉우리 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%B4%89%EC%9A%B0%EB%A6%AC/Main.java)|2022.01.31|
 |23| 임시반장 정하기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%84%EC%8B%9C%EB%B0%98%EC%9E%A5%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)|2022.01.31|
