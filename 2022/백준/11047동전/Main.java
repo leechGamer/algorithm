@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 class Main {
-
+    // 14248kb	128ms
     public static int solution(int[] input, int total) {
         int count = 0;
         for (int i=input.length-1;i>-1;i--) {
