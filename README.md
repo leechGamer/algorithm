@@ -40,6 +40,15 @@
 |34| 10828 Stack |[Done](https://github.com/gyoungeunbae/algorithm/tree/master/2022/10828Stack) | 2022.01.17|
 
 </details>
+
+<details markdown="1">
+<summary> 2022 Febrary</summary>
+
+| | 문제                                                         | 답                                                           | 날짜 |
+|---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|1| [11047동전](https://www.acmicpc.net/problem/11047)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EB%B0%B1%EC%A4%80/11047%EB%8F%99%EC%A0%84/Main.java) |2022.02.03|
+</details>
+
 <details markdown="1">
 <summary> 2021 </summary>
 
