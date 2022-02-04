@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Main {
-
+    // 17744kb	208ms
     public static int solution(int N, int M, int K) {
         int result = 0;
         result = Math.min(N / 2, M);
