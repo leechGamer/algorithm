@@ -4,6 +4,19 @@
 
 | | 문제                                                         | 답                                                           | 날짜 |
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|1| [2557](https://www.acmicpc.net/problem/2557)|[Done]() |2022.03.09|
+|2| [1000](https://www.acmicpc.net/problem/1000)|[Done]() |2022.03.09|
+|3| [2558](https://www.acmicpc.net/problem/2558)|[Done]() |2022.03.09|
+|4| [10950](https://www.acmicpc.net/problem/10950)|[Done]() |2022.03.09|
+|5| [10951](https://www.acmicpc.net/problem/10951)|[Done]() |2022.03.09|
+|6| [10952](https://www.acmicpc.net/problem/10952)|[Done]() |2022.03.09|
+|7| [10953](https://www.acmicpc.net/problem/10953)|[Done]() |2022.03.09|
+|8| [11021](https://www.acmicpc.net/problem/11021)|[Done]() |2022.03.09|
+|9| [11022](https://www.acmicpc.net/problem/11022)|[Done]() |2022.03.09|
+|10| [11718](https://www.acmicpc.net/problem/11718)|[Done]() |2022.03.09|
+|11| [11719](https://www.acmicpc.net/problem/11719)|[Done]() |2022.03.09|
+|12| [11720](https://www.acmicpc.net/problem/11720)|[Done]() |2022.03.09|
+
 </details>
 
 <details markdown="1">
