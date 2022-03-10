@@ -26,7 +26,6 @@
 |20| [2438](https://www.acmicpc.net/problem/2438)|[Done]() |2022.03.10|
 |21| [2439](https://www.acmicpc.net/problem/2439)|[Done]() |2022.03.10|
 |22| [2440](https://www.acmicpc.net/problem/2440)|[Done]() |2022.03.10|
-
 |23| [2441](https://www.acmicpc.net/problem/2441)|[Done]() |2022.03.10|
 |24| [2442](https://www.acmicpc.net/problem/2442)|[Done]() |2022.03.10|
 |25| [2445](https://www.acmicpc.net/problem/2445)|[Done]() |2022.03.10|
