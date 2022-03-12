@@ -4,35 +4,35 @@
 
 | | 문제                                                         | 답                                                           | 날짜 |
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|1| [2557](https://www.acmicpc.net/problem/2557)|[Done]() |2022.03.09|
-|2| [1000](https://www.acmicpc.net/problem/1000)|[Done]() |2022.03.09|
-|3| [2558](https://www.acmicpc.net/problem/2558)|[Done]() |2022.03.09|
-|4| [10950](https://www.acmicpc.net/problem/10950)|[Done]() |2022.03.09|
-|5| [10951](https://www.acmicpc.net/problem/10951)|[Done]() |2022.03.09|
-|6| [10952](https://www.acmicpc.net/problem/10952)|[Done]() |2022.03.09|
-|7| [10953](https://www.acmicpc.net/problem/10953)|[Done]() |2022.03.09|
-|8| [11021](https://www.acmicpc.net/problem/11021)|[Done]() |2022.03.09|
-|9| [11022](https://www.acmicpc.net/problem/11022)|[Done]() |2022.03.09|
-|10| [11718](https://www.acmicpc.net/problem/11718)|[Done]() |2022.03.09|
-|11| [11719](https://www.acmicpc.net/problem/11719)|[Done]() |2022.03.09|
-|12| [11720](https://www.acmicpc.net/problem/11720)|[Done]() |2022.03.09|
-|13| [11721](https://www.acmicpc.net/problem/11721)|[Done]() |2022.03.10|
-|14| [2741](https://www.acmicpc.net/problem/2741)|[Done]() |2022.03.10|
-|15| [2742](https://www.acmicpc.net/problem/2742)|[Done]() |2022.03.10|
-|16| [2739](https://www.acmicpc.net/problem/2739)|[Done]() |2022.03.10|
-|17| [1924](https://www.acmicpc.net/problem/1924)|[Done]() |2022.03.10|
-|18| [8393](https://www.acmicpc.net/problem/8393)|[Done]() |2022.03.10|
-|19| [10818](https://www.acmicpc.net/problem/10818)|[Done]() |2022.03.10|
-|20| [2438](https://www.acmicpc.net/problem/2438)|[Done]() |2022.03.10|
-|21| [2439](https://www.acmicpc.net/problem/2439)|[Done]() |2022.03.10|
-|22| [2440](https://www.acmicpc.net/problem/2440)|[Done]() |2022.03.10|
-|23| [2441](https://www.acmicpc.net/problem/2441)|[Done]() |2022.03.10|
-|24| [2442](https://www.acmicpc.net/problem/2442)|[Done]() |2022.03.10|
-|25| [2445](https://www.acmicpc.net/problem/2445)|[Done]() |2022.03.10|
-|26| [2522](https://www.acmicpc.net/problem/2522)|[Done]() |2022.03.10|
-|27| [2446](https://www.acmicpc.net/problem/2446)|[Done]() |2022.03.10|
-|28| [10991](https://www.acmicpc.net/problem/10991)|[Done]() |2022.03.10|
-|29| [10992](https://www.acmicpc.net/problem/10992)|[Done]() |2022.03.10|
+|1| [2557](https://www.acmicpc.net/problem/2557)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2557/Main.java) |2022.03.09|
+|2| [1000](https://www.acmicpc.net/problem/1000)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/1000/Main.java) |2022.03.09|
+|3| [2558](https://www.acmicpc.net/problem/2558)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2558/Main.java) |2022.03.09|
+|4| [10950](https://www.acmicpc.net/problem/10950)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10950/Main.java) |2022.03.09|
+|5| [10951](https://www.acmicpc.net/problem/10951)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10951/Main.java) |2022.03.09|
+|6| [10952](https://www.acmicpc.net/problem/10952)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10952/Main.java) |2022.03.09|
+|7| [10953](https://www.acmicpc.net/problem/10953)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10953/Main.java) |2022.03.09|
+|8| [11021](https://www.acmicpc.net/problem/11021)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11021/Main.java) |2022.03.09|
+|9| [11022](https://www.acmicpc.net/problem/11022)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11022/Main.java) |2022.03.09|
+|10| [11718](https://www.acmicpc.net/problem/11718)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11718/Main.java) |2022.03.09|
+|11| [11719](https://www.acmicpc.net/problem/11719)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11719/Main.java) |2022.03.09|
+|12| [11720](https://www.acmicpc.net/problem/11720)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11720/Main.java) |2022.03.09|
+|13| [11721](https://www.acmicpc.net/problem/11721)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/11721/Main.java) |2022.03.10|
+|14| [2741](https://www.acmicpc.net/problem/2741)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2741/Main.java) |2022.03.10|
+|15| [2742](https://www.acmicpc.net/problem/2742)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2742/Main.java) |2022.03.10|
+|16| [2739](https://www.acmicpc.net/problem/2739)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2739/Main.java) |2022.03.10|
+|17| [1924](https://www.acmicpc.net/problem/1924)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/1924/Main.java) |2022.03.10|
+|18| [8393](https://www.acmicpc.net/problem/8393)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/8393/Main.java) |2022.03.10|
+|19| [10818](https://www.acmicpc.net/problem/10818)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10818/Main.java) |2022.03.10|
+|20| [2438](https://www.acmicpc.net/problem/2438)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2438/Main.java) |2022.03.10|
+|21| [2439](https://www.acmicpc.net/problem/2439)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2439/Main.java) |2022.03.10|
+|22| [2440](https://www.acmicpc.net/problem/2440)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2440/Main.java) |2022.03.10|
+|23| [2441](https://www.acmicpc.net/problem/2441)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2441/Main.java) |2022.03.10|
+|24| [2442](https://www.acmicpc.net/problem/2442)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2442/Main.java) |2022.03.10|
+|25| [2445](https://www.acmicpc.net/problem/2445)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2445/Main.java) |2022.03.10|
+|26| [2522](https://www.acmicpc.net/problem/2522)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2522/Main.java) |2022.03.10|
+|27| [2446](https://www.acmicpc.net/problem/2446)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2446/Main.java) |2022.03.10|
+|28| [10991](https://www.acmicpc.net/problem/10991)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10991/Main.java) |2022.03.10|
+|29| [10992](https://www.acmicpc.net/problem/10992)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10992/Main.java) |2022.03.10|
 
 
 
