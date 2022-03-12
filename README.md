@@ -33,7 +33,9 @@
 |27| [2446](https://www.acmicpc.net/problem/2446)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/2446/Main.java) |2022.03.10|
 |28| [10991](https://www.acmicpc.net/problem/10991)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10991/Main.java) |2022.03.10|
 |29| [10992](https://www.acmicpc.net/problem/10992)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/10992/Main.java) |2022.03.10|
-
+|30| [1463](https://www.acmicpc.net/problem/1463)|[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EC%9E%85%EC%B6%9C%EB%A0%A5/1463/Main.java) |2022.03.11|
+|31| 계단오르기 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/dp/%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0/Main.java) |2022.03.11|
+|32| 씨름 선수 |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%94%A8%EB%A6%84%EC%84%A0%EC%88%98/Main.java) |2022.03.11|
 
 
 </details>
