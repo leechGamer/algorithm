@@ -39,7 +39,16 @@
 |33| [11726](https://www.acmicpc.net/problem/11726) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/dp/11726/Main.java) |2022.03.14|
 |34| [11727](https://www.acmicpc.net/problem/11727) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/dp/11727/Main.java) |2022.03.16|
 |35| [9095](https://www.acmicpc.net/problem/9095) |[Done](https://github.com/gyoungeunbae/algorithm/blob/master/2022/dp/9095/Main.java) |2022.03.18|
-
+|36| | ||
+|37| | ||
+|38| | ||
+|39| | ||
+|40| | ||
+|41| | ||
+|42| | ||
+|43| | ||
+|44| | ||
+|45| | ||
 </details>
 
 <details markdown="1">
