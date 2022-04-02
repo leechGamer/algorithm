@@ -5,6 +5,8 @@
 | | 문제                                                         | 답                                                           | 날짜 |
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |1| [11057](https://www.acmicpc.net/problem/11057)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/11057/Main.java) |2022.04.02|
+|1| [2193](https://www.acmicpc.net/problem/2193)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/2193-1/Main.java) |2022.04.03|
+
 </details>
 
 <details markdown="1">
