@@ -6,7 +6,7 @@
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |1| [11057](https://www.acmicpc.net/problem/11057)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/11057/Main.java) |2022.04.02|
 |2| [2193](https://www.acmicpc.net/problem/2193)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/2193-1/Main.java) |2022.04.03|
-|2| [1026](https://github.com/leechGamer/algorithm/blob/master/2022/%EA%B7%B8%EB%A6%AC%EB%94%94/1026/Main.java) |2022.04.04|
+|2| [1026](https://www.acmicpc.net/problem/1026)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EA%B7%B8%EB%A6%AC%EB%94%94/1026/Main.java) |2022.04.04|
 |3| [10867](https://www.acmicpc.net/problem/10867)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EC%A0%95%EB%A0%AC/10867/Main.java) |2022.04.05|
 </details>
 
