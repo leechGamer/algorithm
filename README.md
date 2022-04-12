@@ -1,4 +1,5 @@
 # algorithm
+[solvedAc](https://solved.ac/profile/searchortype24)
 <details markdown="1">
 <summary> 2022 April</summary>
 
