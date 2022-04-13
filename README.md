@@ -7,16 +7,16 @@
 |---| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |1| [11057](https://www.acmicpc.net/problem/11057)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/11057/Main.java) |2022.04.02|
 |2| [2193](https://www.acmicpc.net/problem/2193)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/dp/2193-1/Main.java) |2022.04.03|
-|2| [1026](https://www.acmicpc.net/problem/1026)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EA%B7%B8%EB%A6%AC%EB%94%94/1026/Main.java) |2022.04.04|
-|3| [10867](https://www.acmicpc.net/problem/10867)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EC%A0%95%EB%A0%AC/10867/Main.java) |2022.04.05|
-|4| [1037](https://www.acmicpc.net/problem/1037)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EC%88%98%ED%95%99/1037/Main.java) |2022.04.06|
-|5| [11650](https://www.acmicpc.net/problem/11650)|[Done]() |2022.04.07|
-|6| [11651](https://www.acmicpc.net/problem/11651)|[Done]() |2022.04.07|
-|7| [10808](https://www.acmicpc.net/problem/10808)|[Done]() |2022.04.08|
-|8| [10814](https://www.acmicpc.net/problem/10814)|[Done]() |2022.04.09|
-|9| [10825](https://www.acmicpc.net/problem/10825)|[Done]() |2022.04.10|
-|10| [10809](https://www.acmicpc.net/problem/10809)|[Done]() |2022.04.11|
-|11| [10820](https://www.acmicpc.net/problem/10820)|[Done]() |2022.04.12|
+|3| [1026](https://www.acmicpc.net/problem/1026)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EA%B7%B8%EB%A6%AC%EB%94%94/1026/Main.java) |2022.04.04|
+|4| [10867](https://www.acmicpc.net/problem/10867)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EC%A0%95%EB%A0%AC/10867/Main.java) |2022.04.05|
+|5| [1037](https://www.acmicpc.net/problem/1037)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/%EC%88%98%ED%95%99/1037/Main.java) |2022.04.06|
+|6| [11650](https://www.acmicpc.net/problem/11650)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/sort/11650) |2022.04.07|
+|7| [11651](https://www.acmicpc.net/problem/11651)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/sort/11651) |2022.04.07|
+|8| [10808](https://www.acmicpc.net/problem/10808)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/string/10808) |2022.04.08|
+|9| [10814](https://www.acmicpc.net/problem/10814)|[Done](https://github.com/leechGamer/algorithm/blob/master/2022/sort/10814/Main.java) |2022.04.09|
+|10| [10825](https://www.acmicpc.net/problem/10825)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/sort/10825) |2022.04.10|
+|11| [10809](https://www.acmicpc.net/problem/10809)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/string/10809) |2022.04.11|
+|12| [10820](https://www.acmicpc.net/problem/10820)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/string/10820) |2022.04.12|
 
 </details>
 
