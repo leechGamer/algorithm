@@ -21,6 +21,8 @@
 |14| [11655](https://www.acmicpc.net/problem/11655)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/string/11655) |2022.04.13|
 |15| [10824](https://www.acmicpc.net/problem/10824)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/implements/10824) |2022.04.13|
 |16| [11656](https://www.acmicpc.net/problem/11656)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/string/11656) |2022.04.13|
+|17| [10866](https://www.acmicpc.net/problem/10866)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/dataStructure/10866) |2022.04.14|
+|18| [1927](https://www.acmicpc.net/problem/1927)|[Done](https://github.com/leechGamer/algorithm/tree/master/2022/dataStructure/1927) |2022.04.15|
 
 </details>
 
