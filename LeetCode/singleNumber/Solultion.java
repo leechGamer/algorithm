@@ -1,4 +1,3 @@
-package leetcode4;
 
 public class Solultion {
     public static int maxDepth(TreeNode root) {
