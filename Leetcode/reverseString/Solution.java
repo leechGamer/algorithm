@@ -1,4 +1,3 @@
-package leetcode2;
 
 import java.util.*;
 
